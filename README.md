@@ -2,9 +2,13 @@
 NLP Lab 04: Bag of Words and Cosine Similarity implementation in Python.
 
 NAME: ABDUL WASIE
+
 DEPARTMENT: AI
+
 SUBJECT: NLP
+
 ROLL no: 2k24-AI-03
+
 
 Task 1 screenshot
 
