@@ -1,6 +1,11 @@
 # nlp-lab-04-bow-cosine
 NLP Lab 04: Bag of Words and Cosine Similarity implementation in Python.
 
+NAME: ABDUL WASIE
+DEPARTMENT: AI
+SUBJECT: NLP
+ROLL no: 2k24-AI-03
+
 Task 1 screenshot
 
 <img width="461" height="371" alt="Annotation 2026-09-05 094013" src="https://github.com/user-attachments/assets/9fb9c985-9240-4424-a002-9177be70cb13" />
