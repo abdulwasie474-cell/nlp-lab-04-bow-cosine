@@ -27,11 +27,16 @@ Output screenshot of both tasks
 "VIVA QUESTIONS"
 
 Viva Q1: Why does Bag of Words ignore word order?
+
 Answer: Bag of Words ignores word order because it represents text using word frequencies, not the position or sequence of words.
 
+
 Viva Q2: Why is the Bag of Words representation sparse?
+
 Answer: BoW is sparse because most vocabulary words do not appear in a particular document, so most vector values are zero.
 
+
 Viva Q3: Why does Document 3 get a similarity score of 0.0000?
+
 Answer: Document 3 gets 0.0000 because it has no words in common with the query, so their vectors have zero similarity.
 
