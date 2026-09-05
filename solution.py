@@ -49,5 +49,6 @@ for i in ranking:
     print(f"Document {i + 1}: {scores[0][i]:.4f}")
     print(documents[i])
     print()
+    
 
     
